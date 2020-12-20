@@ -9,7 +9,7 @@ button {
   font-weight: bold;
   cursor: pointer;
   background: #e5e7eb;
-  borderradius: 0.5rem;
+  border-radius: 0.5rem;
   padding: 0.5rem 1rem;
   border: 1px solid black;
   margin: 1rem 0.9rem;
